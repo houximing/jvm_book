@@ -1,10 +1,10 @@
-# JVM，卷走面试官（二）—— 有党性的前端编译
+# JVM，卷走面试官（二）—— 有节操的前端编译
 
 上篇讲到，JVM就如同插线板，那能适配插线板的插头——这个字节码又是如何产生的呢？我们本篇内容会进行如同新闻联播前十分钟一样具体地阐述，深入贯彻，学习领会，并发扬光大。
 
 
 
-首先谈点逻辑思维的问题，比如我们写了一段充满党性的代码：
+首先谈点逻辑思维的问题，比如我们写了一段充满节操的代码：
 
 ```java
 
@@ -13,7 +13,8 @@ public class NewEra {
     public static void main(String[] args) {
         int start = 1921;
         int latestYearOfCelebration = 2021;
-        System.out.println("热烈庆祝永远伟大光荣正确的中国共产党" + yearOfGlory(start, latestYearOfCelebration) + "岁生日");
+        System.out.println("热烈庆祝永远伟大光荣正确的xxxxx
+                           	" + yearOfGlory(start, latestYearOfCelebration) + "岁生日");
     }
 
     /**
