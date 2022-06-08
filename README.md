@@ -14,4 +14,4 @@
 
 本文公众号，请各位关注
 
-![输入图片说明](qrcode_for_gh_31c7fca4707e_258.jpg)
+![image](https://user-images.githubusercontent.com/9123837/172631750-289b80b1-d393-40ec-95bb-de20ad70d4e1.png)
